@@ -27,6 +27,7 @@
   "homepage": "https://github.com/afzal113/AngularSeed#readme",
   "devDependencies": {
     "bower": "^1.7.9",
+    "gulp-util": "^3.0.7",
     "http-server": "^0.9.0",
     "jasmine-core": "^2.4.1",
     "karma": "^1.2.0",
@@ -39,11 +40,12 @@
     "test": "tests"
   },
   "dependencies": {
+    "bower": "^1.7.9",
+    "gulp": "^3.9.1",
     "jasmine": "^2.4.1",
     "jasmine-core": "^2.4.1",
     "karma-chrome-launcher": "^2.0.0",
-    "karma-jasmine": "^1.0.2",
-    "bower": "^1.7.9"
+    "karma-jasmine": "^1.0.2"
   },
   "description": ""
 }
